@@ -4,8 +4,8 @@ ignore-init-module-imports = true
 fix = true
 select = ["E", "F", "W", "I", "D", "RUF"]
 ignore = [
-  "E501",  # line too long | Black take care of it
   "D212",  # Multi-line docstring | We use D213
+  "E731",  # Do not assign a `lambda` expression, use a `def` | I prefer to use lambda
 ]
 
 [tool.ruff.flake8-quotes]
