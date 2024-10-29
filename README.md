@@ -1,6 +1,6 @@
-# gee-sphinx-inventory
+# sphinx-inventory
 
-The code used to generate the sphinx inventory of the GEE objects.
+The code used to generate the sphinx inventory of the all the Google Earth Engine objects.
 
 ## Usage
 
