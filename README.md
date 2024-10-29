@@ -24,10 +24,8 @@ intersphinx_mapping = {
 Then you can use the `:py:class:'ee.Image'` role to link the Earth Engine object in your Sphinx files.
 It will appear as [`ee.Image`](https://developers.google.com/earth-engine/apidocs/ee-image) in the built documentation.
 
-```rst
 
 > [!NOTE]
 > - To know more about `earthengine-api` read their documentation [here](https://developers.google.com/earth-engine)
 > - To know more about `sphinx` read their documentation [here](https://www.sphinx-doc.org/en/master/)
 > - To know more about `sphinx.ext.intersphinx` usage read their documentation [here](https://www.sphinx-doc.org/en/master/usage/extensions/intersphinx.html)
-```
